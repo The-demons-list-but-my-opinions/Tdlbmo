@@ -1,22 +1,22 @@
 {
     "id": 86407629,
-    "name": "Tidal Wave",
-    "author": "Onilink",
-    "creators": ["Onilink"],
+    "name": "Every End",
+    "author": "Mindcap",
+    "creators": ["Mindcap, too many to list"],
     "verifier": "zZoink",
-    "verification": "https://www.youtube.com/watch?v=9fsZ014qB3s",
-    "percentToQualify": "77",
-    "password": "46290",
+    "verification": "https://www.youtube.com/watch?v=AO--mVVFtKI",
+    "percentToQualify": "72",
+    "password": "Free To Copy",
     "records": [
         {
-            "user": "Trick",
-            "link": "https://www.youtube.com/watch?v=t0o4wsg36l0",
+            "user": "zZoink",
+            "link": "https://www.youtube.com/watch?v=ZyRmgwSh5tQ",
             "percent": 100,
-            "hz": 240
+            "hz": 360
         },
         {
-            "user": "WPopoff",
-            "link": "https://www.youtube.com/watch?v=mxR1JQmQyrc",
+            "user": "garbag",
+            "link": "https://www.youtube.com/watch?v=K5BRT1tMycQ",
             "percent": 100,
             "hz": 240
         }
