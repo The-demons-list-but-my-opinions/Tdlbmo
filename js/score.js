@@ -36,7 +36,7 @@ export function score(rank, percent, minPercent) {
         return round(score - score / 29);
     }
 
-    return Math.max(round(score), 3);
+    return Math.max(round(score), 10);
 }
 
 export function round(num) {
