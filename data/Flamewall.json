@@ -1,22 +1,22 @@
 {
     "id": 86407629,
-    "name": "Tidal Wave",
+    "name": "Flamewall",
     "author": "Onilink",
     "creators": ["Onilink"],
     "verifier": "zZoink",
-    "verification": "https://www.youtube.com/watch?v=9fsZ014qB3s",
-    "percentToQualify": "77",
+    "verification": "https://www.youtube.com/watch?v=x4Io4zkWVRw",
+    "percentToQualify": "79",
     "password": "46290",
     "records": [
         {
-            "user": "Trick",
-            "link": "https://www.youtube.com/watch?v=t0o4wsg36l0",
+            "user": "zZoink",
+            "link": "https://www.youtube.com/watch?v=x-0Ay06OQ8o",
             "percent": 100,
-            "hz": 240
+            "hz": 360
         },
         {
-            "user": "WPopoff",
-            "link": "https://www.youtube.com/watch?v=mxR1JQmQyrc",
+            "user": "zLevii",
+            "link": "https://www.youtube.com/watch?v=LCd1aljMPWs",
             "percent": 100,
             "hz": 240
         }
