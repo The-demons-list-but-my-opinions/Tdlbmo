@@ -56,7 +56,7 @@ export default {
                         </li>
                          <li>
                             <div class="type-title-sm">HandCam</div>
-                            <p>{{ level.Handcam || 'Not Needed ' }}</p>
+                            <p>{{ level.Handcam || 'Required ' }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
