@@ -1,22 +1,22 @@
 {
-    "id": 86407629,
-    "name": "Tidal Wave",
-    "author": "Onilink",
-    "creators": ["Onilink"],
-    "verifier": "zZoink",
-    "verification": "https://www.youtube.com/watch?v=9fsZ014qB3s",
-    "percentToQualify": "77",
-    "password": "46290",
+    "id": 110816181,
+    "name": "BOOBAWAMBA",
+    "author": "Akunakunn",
+    "creators": ["ygg24, TheLetterV"],
+    "verifier": "Eastshark",
+    "verification": "https://www.youtube.com/watch?v=20fYiqLAo_E",
+    "percentToQualify": "74",
+    "password": "Free To Copy",
     "records": [
         {
-            "user": "Trick",
-            "link": "https://www.youtube.com/watch?v=t0o4wsg36l0",
+            "user": "Agonom",
+            "link": "https://www.youtube.com/watch?v=HMoe9mM3_Zw",
             "percent": 100,
             "hz": 240
         },
         {
             "user": "WPopoff",
-            "link": "https://www.youtube.com/watch?v=mxR1JQmQyrc",
+            "link": "https://www.youtube.com/watch?v=kI7WTN1FIxQ",
             "percent": 100,
             "hz": 240
         }
