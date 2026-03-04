@@ -1,30 +1,24 @@
 {
-    "id": 89496627,
-    "name": "Avernus",
-    "author": "PockeWindFish",
-    "creators": ["SyQuaL, More"],
-    "verifier": "zZoink",
-    "verification": "https://www.youtube.com/watch?v=16Zh8jssanc",
-    "percentToQualify": "68",
-    "password": "030607",
+    "id": 86407629,
+    "name": "Anathema",
+    "author": "NikroPlays",
+    "creators": ["ZipixBox, Itshybrid, EternalswipVMAX, GDIris"],
+    "verifier": "Whizkid05",
+    "verification": "https://www.youtube.com/watch?v=_uKwmjHmySI",
+    "percentToQualify": "69",
+    "password": "Free To Copy",
     "records": [
         {
-            "user": "Diamond",
-            "link": "http://youtube.com/watch?v=oEFB-ZrhMmM",
+            "user": "A6",
+            "link": "https://www.youtube.com/watch?v=BL7h6xAjq-E",
             "percent": 100,
             "hz": 240
         },
         {
-            "user": "Trick",
-            "link": "https://www.youtube.com/watch?v=aWyNtYYpjy8",
+            "user": "zZoink",
+            "link": "https://www.youtube.com/watch?v=HqoF9zgCAlI",
             "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "c0sm1c",
-            "link": "https://youtu.be/eDkhSWuzAdg",
-            "percent": 68,
-            "hz": 240
+            "hz": 360
         }
     ]
 }
