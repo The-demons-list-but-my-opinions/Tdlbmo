@@ -1,0 +1,23 @@
+{
+    "id": 120012581,
+    "name": "Defeated Circles",
+    "author": "GXQ",
+    "creators": ["Many"],
+    "verifier": "zZoink",
+    "verification": "https://youtu.be/nU5AQPzd2YA",
+    "percentToQualify": "72",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "moliklee",
+            "link": "https://www.youtube.com/watch?v=R60DOyl8GYQ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Netermind",
+            "link": "https://www.youtube.com/watch?v=4HZnramyHW8",
+            "percent": 100,
+            "hz": 360
+    ]
+}
