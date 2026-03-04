@@ -14,7 +14,7 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git fetch -unshallow
+          git fetch --unshallow
           git pull origin main
           git checkout production
           git pull origin production
