@@ -1,22 +1,22 @@
 {
-    "id": 86407629,
-    "name": "Anathema",
-    "author": "NikroPlays",
-    "creators": ["ZipixBox, Itshybrid, EternalswipVMAX, GDIris"],
+    "id": 107805281,
+    "name": "Menace",
+    "author": "Arraegen",
+    "creators": ["Arraegen"],
     "verifier": "Whizkid05",
-    "verification": "https://www.youtube.com/watch?v=_uKwmjHmySI",
-    "percentToQualify": "69",
+    "verification": "https://www.youtube.com/watch?v=nnkgghxxsEE&source_ve_path=MTc4NDI00",
+    "percentToQualify": "66",
     "password": "Free To Copy",
     "records": [
         {
-            "user": "A6",
-            "link": "https://www.youtube.com/watch?v=BL7h6xAjq-E",
+            "user": "Thnnder",
+            "link": "https://www.youtube.com/watch?v=1CQXk6nuLmk",
             "percent": 100,
             "hz": 240
         },
         {
             "user": "zZoink",
-            "link": "https://www.youtube.com/watch?v=HqoF9zgCAlI",
+            "link": "https://www.youtube.com/watch?v=W8gCO5boRnI",
             "percent": 100,
             "hz": 360
         }
