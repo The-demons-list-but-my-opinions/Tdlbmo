@@ -1,12 +1,17 @@
 {
-    "id": 86018142,
-    "name": "KOCMOC",
-    "author": "Cherry Team",
-    "creators": ["Cherryteam"],
-    "verifier": "Trick",
-    "verification": "https://www.youtube.com/watch?v=RsOVrVlcE2g",
+    "id": 132854166,
+    "name": "Thinking Space II (Legacy)",
+    "author": "CoCyMain",
+    "creators": ["CoCyMain"],
+    "verifier": "Zeronium",
+    "verification": "https://www.youtube.com/watch?v=RJedeB2wHCA",
     "percentToQualify": "74",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Mizukii",
+            "link": "https://www.youtube.com/watch?v=aBhjftGEao0",
+            "percent": 100,
+            "hz": 240
     ]
 }
