@@ -129,7 +129,7 @@ export default {
                     </p>
                     <p> CBF is allowed
                     </p>
-                    <p> Said level does NOT need to be rated but it is not Required.
+                    <p> Said level does NOT need to be rated.
                 </div>
             </div>
         </main>
