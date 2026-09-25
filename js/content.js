@@ -30,8 +30,8 @@ export async function fetchList() {
                 }
             }),
         );
-    } catch {
-        console.error(`Failed to load list.`);
+    } catch (error) {
+        console.error(`Failed to load list.`, error);
         return null;
     }
 }
