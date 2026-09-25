@@ -30,8 +30,8 @@ export async function fetchList() {
                 }
             }),
         );
-    } catch (error) {
-        console.error(`Failed to load list.`, error);
+    } catch {
+        console.error(`Failed to load list.`);
         return null;
     }
 }
@@ -48,7 +48,6 @@ export async function fetchEditors() {
 
 export async function fetchLeaderboard() {
     const list = await fetchList();
-    console.log("LIST DATA:", list);
 
     const scoreMap = {};
     const errs = [];
